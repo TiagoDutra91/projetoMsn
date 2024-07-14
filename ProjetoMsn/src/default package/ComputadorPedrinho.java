@@ -8,6 +8,8 @@ public class ComputadorPedrinho {
     public static void main(String[] args){
         ServicoMensagemInstantanea smi = null;
 
+        System.out.println("\n");
+
         String appEscolhido = "msn";
 
         if(appEscolhido.equals("msn"))
